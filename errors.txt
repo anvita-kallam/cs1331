@@ -1,0 +1,8 @@
+Bad1 had an error that occurred during compile time
+The public class name BADOne doesn't match the filename Bad1.java, and so this violates Java's requirement that public class names must match the filename exactly.
+
+Bad2 had an error that ocurred during runtime
+The program attempted to divide an integer by zero, which causes an error known as 'ArithmeticException' to happen during the program's execution.
+
+Bad3 had an error that occurred during compile time
+The variable letter is declared to be a type String but is assigned a char value, which causes a type mismatch that stops the code from being able to compile.
